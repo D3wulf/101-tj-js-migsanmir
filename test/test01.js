@@ -1,8 +1,5 @@
 function clasificaElementos(index) {
 
-
-
-    //index = [10, 0, -8];
     positivos = [];
     negativos = [];
     igualACero = [];
@@ -38,4 +35,4 @@ function clasificaElementos(index) {
 }
 
 
-module.exports = { clasificaElementos };
+module.exports = clasificaElementos;
